@@ -25,29 +25,22 @@ Below are the certificates I successfully completed, each with a 4-hour curricul
 Below are the preview images of the certificates:
 
 ### 🔹 Introduction to Python  
-![Introduction to Python](screenshots/Introduction_to_Python.png)
+![Introduction to Python](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Introduction%20to%20Python.JPG)
 
 ### 🔹 Data Types for Data Science  
-![Data Types](screenshots/Data_Types_for_Data_Science.png)
+![Data Types](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Data%20Types%20for%20Data%20Science%20in%20Python.JPG)
 
 ### 🔹 Object-Oriented Programming in Python  
-![OOPs](screenshots/OOPs_In_Python.png)
+![OOPs](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Object-Oriented-Programing%20in%20Python.JPG)
 
 ### 🔹 Introduction to Databases in Python  
-![Databases](screenshots/Databases_in_Python.png)
+![Databases](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Introduction%20to%20Databases%20in%20Python.JPG)
 
 ### 🔹 Writing Efficient Python Code  
-![Efficient Code](screenshots/Writing_Efficient_Code.png)
+![Efficient Code](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Writing%20Efficient%20Python%20Code.JPG)
 
 ### 🔹 Data Manipulation with pandas  
-![Pandas](screenshots/Data_Manipulation_with_pandas.png)
+![Pandas](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Data%20Manipulation%20with%20pandas.JPG)
 
 ### 🔹 Introduction to NumPy  
-![NumPy](screenshots/Introduction_to_NumPy.png)
-
-> 📁 Note: Place all the above screenshot images in a folder called `screenshots/` inside your GitHub repo.
-
----
-
-## 📂 Repository Contents
-
+![NumPy](https://raw.githubusercontent.com/amitpachpute2510/DATA_CAMP/refs/heads/main/Introduction%20to%20NumPy.JPG)
